@@ -1,0 +1,12 @@
+[submodule "omnimotion"]
+	path = omnimotion
+	url = git@github.com:qianqianwang68/omnimotion.git
+[submodule "FLImBrushCNNSeg"]
+	path = FLImBrushCNNSeg
+	url = git@github.com:marculab/FLImBrushCNNSeg.git
+[submodule "tapnet"]
+	path = tapnet
+	url = git@github.com:google-deepmind/tapnet.git
+[submodule "co-tracker"]
+	path = co-tracker
+	url = git@github.com:facebookresearch/co-tracker.git
